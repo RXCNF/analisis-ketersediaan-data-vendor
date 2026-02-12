@@ -102,6 +102,3 @@ Silakan buat issue atau pull request untuk perbaikan dan fitur baru.
 
 MIT License
 
-## Kontak
-
-Untuk pertanyaan atau dukungan, silakan hubungi [email@domain.com]
